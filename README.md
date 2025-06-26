@@ -18,7 +18,9 @@
 
 ## 🛠️ Tech Stack
 
-- HTML5
+-Reactjs
+-HTML5
+-Node.js
 - CSS3
 - JavaScript
 - Responsive Web Design
