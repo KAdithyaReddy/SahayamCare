@@ -33,4 +33,15 @@
 ---
 
 ## 📁 Folder Structure
-
+SahayamCare/
+├── index.html
+├── about.html
+├── services.html
+├── contact.html
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+├── assets/
+│ ├── images/
+│ └── screenshot-home.png
